@@ -1,6 +1,7 @@
 # StarCraftBot
 # Ai Project 2 Guc Berlin 
-we are creating a Python bot and AI for the game: StarCraft II.we are using sc2 pyhton library , 
+we are creating a Python bot and AI for the game: StarCraft II.This Agent that can play Starcraft II, and is able to beat you.
+The Agent can participate in a tournament against other agentswe are using sc2 pyhton library .
 which is DeepMind's Python wrapper. 
 And After we will try to to use a Neural Network Model for the Bot to make it harder ! we are using an existeing Neural Network Model Model
 in the link 
