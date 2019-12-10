@@ -7,10 +7,10 @@ in the link
 https://drive.google.com/file/d/10lj3vo3nsEMhJayD-K-JFM8t-3BQYmWV/view
 
 to install the modules ,use pip in python 
-1- pip install sc2
-2- pip install keras
-3 - pip install cv2
-4- pip install tensorflow
+- pip install sc2
+- pip install keras
+- pip install cv2
+- pip install tensorflow
 Video Demo 
 https://drive.google.com/file/d/1v_0jJhNgrmVe3kuLk4TPGvhpNcFx5zhw/view?usp=sharing
 
