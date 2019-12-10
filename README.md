@@ -1,5 +1,5 @@
 # StarCraftBot
-Ai Project 2 Guc Berlin 
+# Ai Project 2 Guc Berlin 
 we are creating a Python bot and AI for the game: StarCraft II.we are using sc2 pyhton library , 
 which is DeepMind's Python wrapper. 
 And After we will try to to use a Neural Network Model for the Bot to make it harder ! we are using an existeing Neural Network Model Model
